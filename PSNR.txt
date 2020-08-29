@@ -1,0 +1,16 @@
+************
+-sigma = 10
+************
+imBasic
+PSNR = 33.6761
+RMSE = 5.28121
+imFinal
+PSNR = 35.3614
+RMSE = 4.34983
+*****************
+aniso : 
+PSNR = 33.2711
+RMSE = 5.53328
+imFinal
+PSNR = 34.4589
+RMSE = 4.82607
