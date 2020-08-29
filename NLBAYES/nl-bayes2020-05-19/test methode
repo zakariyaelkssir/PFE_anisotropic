@@ -1,0 +1,92 @@
+matching methods
+
+//  1.method=TM_SQDIFF
+imBasic
+PSNR = 32.3717
+RMSE = 6.13701
+imFinal
+PSNR = 33.0927
+RMSE = 5.64813
+imBiasBasic
+PSNR = 21.0595
+RMSE = 22.5717
+imBiasFinal
+PSNR = 33.7764
+RMSE = 5.22061
+
+//  2.method=TM_SQDIFF_NORMED
+imBasic
+PSNR = 32.3916
+RMSE = 6.12293
+imFinal
+PSNR = 33.1181
+RMSE = 5.63166
+imBiasBasic
+PSNR = 21.3867
+RMSE = 21.7374
+imBiasFinal
+PSNR = 33.7621
+RMSE = 5.22921
+
+//  3.method=TM_CCORR
+imBasic
+PSNR = 29.924
+RMSE = 8.1347
+imFinal
+PSNR = 32.3799
+RMSE = 6.13118
+imBiasBasic
+PSNR = 19.7976
+RMSE = 26.1011
+imBiasFinal
+PSNR = 37.0592
+RMSE = 3.57751
+
+
+
+//  4. method=TM_CCORR_NORMED
+
+imBasic
+PSNR = 32.267
+RMSE = 6.2114
+imFinal
+PSNR = 33.1239
+RMSE = 5.62785
+imBiasBasic
+PSNR = 13.1111
+RMSE = 56.362
+imBiasFinal
+PSNR = 36.1695
+RMSE = 3.96337
+
+
+// 5.method=TM_CCOEFF
+
+imBasic
+PSNR = 29.9515
+RMSE = 8.10892
+imFinal
+PSNR = 32.3862
+RMSE = 6.12675
+imBiasBasic
+PSNR = 19.7976
+RMSE = 26.1011
+imBiasFinal
+PSNR = 37.0592
+RMSE = 3.57751
+
+// 6.method=TM_CCOEFF_NORMED
+
+imBasic
+PSNR = 32.1695
+RMSE = 6.2815
+imFinal
+PSNR = 33.0959
+RMSE = 5.64606
+imBiasBasic
+PSNR = 13.1111
+RMSE = 56.362
+imBiasFinal
+PSNR = 36.1695
+RMSE = 3.96337
+
